@@ -1,0 +1,6 @@
+- improve upon my javascript and/or python skills
+- learn to collaborate with team members on a daily/weekly basis
+- Have a good system to find issues and develop team skills to work on a single big PR
+- Have a better working understanding of git and working with repositories
+- Make multiple successful PR merges
+- Have main contributors comment on my issues and thank me for my contribution

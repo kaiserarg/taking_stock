@@ -1,0 +1,4 @@
+- I am very passionate about music (more specifically jazz, rock, blues, neosoul) and I play guitar
+- I really like clean modern UX/UI (web3, etc.)
+- I like building PCs and tinkering with my own
+- I like to workout

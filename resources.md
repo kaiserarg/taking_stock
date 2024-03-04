@@ -1,0 +1,6 @@
+- My times and availabilities are very flexible
+- My python knowledge
+- Good time management and project leading knowledge/skills from previous group project based classes
+- Leadership skills
+- Creative frontend skills for UX/UI design
+- Really good at finding help/resources online
